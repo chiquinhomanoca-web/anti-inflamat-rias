@@ -1,0 +1,6 @@
+{
+  "name": "Receitas Saudáveis de Hoje — +1000 Receitas Anti-inflamatórias",
+  "description": "Mais de 1000 receitas anti-inflamatórias sem glúten e sem açúcar adicionado, revistas pela nutricionista Catarina. Plano único de oferta por 9,90 € com acesso vitalício na app e PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
